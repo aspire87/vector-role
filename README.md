@@ -6,9 +6,10 @@ This role can install Vector on EL
 Role Variables
 --------------
 
-| variable | description |
-|--------------|---------------__|
-| vector_version | Version of Vector to  install |
+
+ | variable | description |
+ |-----| ---- |
+ |vector_version|Version of Vector to  install|
 
 
 Example Playbook
